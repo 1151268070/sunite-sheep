@@ -28,7 +28,7 @@
         cellList: [
           {
             id: 1,
-            title: '羊只排酸批次管理',
+            title: '排酸批次管理',
             path: '/acidbatch'
           },
           {
